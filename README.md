@@ -233,7 +233,7 @@ RTE_SDK. For example:
 * If using Ubuntu Server 14.04 LTS then just install:
 
 	```
-	sudo apt-get install libprotobuf-c0 libprotobuf-c0-dev libprotobuf8 libprotoc8 protobuf-c-	compiler
+	sudo apt-get install libprotobuf-c0 libprotobuf-c0-dev libprotobuf8 libprotoc8 protobuf-c-compiler
 	```
 
 * Otherwise (Ubuntu version >= 15.10):
