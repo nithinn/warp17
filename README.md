@@ -228,6 +228,7 @@ RTE_SDK. For example:
 
 	```
 	sudo apt-get install protobuf-compiler libprotobuf-dev python-protobuf
+	sudo pip install --upgrade protobuf
 	```
 
 * If using Ubuntu Server 14.04 LTS then just install:
